@@ -256,6 +256,3 @@ tail -n 20 data/run_logs.jsonl
 You should see accepted items with `score_0_10` and the EMA fields updating.
 
 
-## License
-
-Add a license if you plan to share publicly.
