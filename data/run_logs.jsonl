@@ -1,0 +1,54 @@
+{"event": "accepted", "accepted": 1, "attempts": 1, "category": "coding", "score": 9.0, "ema_global": 9.0, "ema_category": 9.0, "created_at": "2026-02-18T04:38:02.326811+00:00"}
+{"event": "reject_llm_not_novel", "category": "reasoning", "score": 6.0, "created_at": "2026-02-18T04:39:05.281304+00:00"}
+{"event": "accepted", "accepted": 2, "attempts": 3, "category": "ml", "score": 8.0, "ema_global": 8.9, "ema_category": 8.0, "created_at": "2026-02-18T04:40:45.840318+00:00"}
+{"event": "accepted", "accepted": 3, "attempts": 4, "category": "reasoning", "score": 8.0, "ema_global": 8.81, "ema_category": 8.0, "created_at": "2026-02-18T04:42:05.770302+00:00"}
+{"event": "accepted", "accepted": 4, "attempts": 5, "category": "science", "score": 8.0, "ema_global": 8.729000000000001, "ema_category": 8.0, "created_at": "2026-02-18T04:43:59.079696+00:00"}
+{"event": "accepted", "accepted": 5, "attempts": 6, "category": "coding", "score": 9.0, "ema_global": 8.756100000000002, "ema_category": 9.0, "created_at": "2026-02-18T04:45:29.977239+00:00"}
+{"event": "accepted", "accepted": 6, "attempts": 7, "category": "reasoning", "score": 9.0, "ema_global": 8.780490000000002, "ema_category": 8.1, "created_at": "2026-02-18T04:47:00.253963+00:00"}
+{"event": "accepted", "accepted": 7, "attempts": 8, "category": "ml", "score": 9.0, "ema_global": 8.802441000000002, "ema_category": 8.1, "created_at": "2026-02-18T04:48:49.561990+00:00"}
+{"event": "accepted", "accepted": 8, "attempts": 9, "category": "reasoning", "score": 8.0, "ema_global": 8.722196900000002, "ema_category": 8.09, "created_at": "2026-02-18T04:50:41.094869+00:00"}
+{"event": "accepted", "accepted": 9, "attempts": 10, "category": "science", "score": 9.0, "ema_global": 8.749977210000003, "ema_category": 8.1, "created_at": "2026-02-18T04:52:11.709944+00:00"}
+{"event": "accepted", "accepted": 10, "attempts": 11, "category": "math", "score": 9.0, "ema_global": 8.774979489000003, "ema_category": 9.0, "created_at": "2026-02-18T04:53:07.224552+00:00"}
+{"event": "accepted", "accepted": 11, "attempts": 12, "category": "math", "score": 8.0, "ema_global": 8.697481540100004, "ema_category": 8.9, "created_at": "2026-02-18T04:53:59.604114+00:00"}
+{"event": "accepted", "accepted": 12, "attempts": 13, "category": "ml", "score": 9.0, "ema_global": 8.727733386090003, "ema_category": 8.19, "created_at": "2026-02-18T04:55:23.912381+00:00"}
+{"event": "accepted", "accepted": 13, "attempts": 14, "category": "planning", "score": 9.0, "ema_global": 8.754960047481003, "ema_category": 9.0, "created_at": "2026-02-18T04:57:13.701082+00:00"}
+{"event": "reject_llm_not_novel", "category": "math", "score": 8.0, "created_at": "2026-02-18T04:58:22.575282+00:00"}
+{"event": "accepted", "accepted": 14, "attempts": 16, "category": "coding", "score": 9.0, "ema_global": 8.779464042732902, "ema_category": 9.0, "created_at": "2026-02-18T05:00:06.789198+00:00"}
+{"event": "accepted", "accepted": 15, "attempts": 17, "category": "systems", "score": 8.0, "ema_global": 8.701517638459613, "ema_category": 8.0, "created_at": "2026-02-18T05:01:57.432339+00:00"}
+{"event": "accepted", "accepted": 16, "attempts": 18, "category": "planning", "score": 9.0, "ema_global": 8.731365874613651, "ema_category": 9.0, "created_at": "2026-02-18T05:03:34.490211+00:00"}
+{"event": "accepted", "accepted": 17, "attempts": 19, "category": "ml", "score": 9.0, "ema_global": 8.758229287152286, "ema_category": 8.270999999999999, "created_at": "2026-02-18T05:05:13.161417+00:00"}
+{"event": "accepted", "accepted": 18, "attempts": 20, "category": "science", "score": 9.0, "ema_global": 8.782406358437058, "ema_category": 8.19, "created_at": "2026-02-18T05:06:16.199543+00:00"}
+{"event": "accepted", "accepted": 19, "attempts": 21, "category": "planning", "score": 8.0, "ema_global": 8.704165722593352, "ema_category": 8.9, "created_at": "2026-02-18T05:07:46.650178+00:00"}
+{"event": "accepted", "accepted": 20, "attempts": 22, "category": "reasoning", "score": 8.0, "ema_global": 8.633749150334017, "ema_category": 8.081, "created_at": "2026-02-18T05:09:06.934676+00:00"}
+{"event": "accepted", "accepted": 21, "attempts": 23, "category": "systems", "score": 8.0, "ema_global": 8.570374235300616, "ema_category": 8.0, "created_at": "2026-02-18T05:10:44.666966+00:00"}
+{"event": "accepted", "accepted": 22, "attempts": 24, "category": "math", "score": 9.0, "ema_global": 8.613336811770553, "ema_category": 8.91, "created_at": "2026-02-18T05:11:58.601434+00:00"}
+{"event": "accepted", "accepted": 23, "attempts": 25, "category": "math", "score": 9.0, "ema_global": 8.652003130593497, "ema_category": 8.919, "created_at": "2026-02-18T05:13:13.508908+00:00"}
+{"event": "accepted", "accepted": 24, "attempts": 26, "category": "reasoning", "score": 9.0, "ema_global": 8.686802817534147, "ema_category": 8.1729, "created_at": "2026-02-18T05:14:55.000293+00:00"}
+{"event": "accepted", "accepted": 25, "attempts": 27, "category": "coding", "score": 9.0, "ema_global": 8.718122535780733, "ema_category": 9.0, "created_at": "2026-02-18T05:16:43.271219+00:00"}
+{"event": "accepted", "accepted": 26, "attempts": 28, "category": "systems", "score": 8.0, "ema_global": 8.64631028220266, "ema_category": 8.0, "created_at": "2026-02-18T05:18:31.560656+00:00"}
+{"event": "accepted", "accepted": 27, "attempts": 29, "category": "math", "score": 9.0, "ema_global": 8.681679253982393, "ema_category": 8.927100000000001, "created_at": "2026-02-18T05:20:13.344299+00:00"}
+{"event": "reject_llm_not_novel", "category": "ml", "score": 9.0, "created_at": "2026-02-18T05:21:29.177605+00:00"}
+{"event": "accepted", "accepted": 28, "attempts": 31, "category": "ml", "score": 9.0, "ema_global": 8.713511328584154, "ema_category": 8.3439, "created_at": "2026-02-18T05:23:03.755016+00:00"}
+{"event": "accepted", "accepted": 29, "attempts": 32, "category": "science", "score": 8.0, "ema_global": 8.642160195725738, "ema_category": 8.171, "created_at": "2026-02-18T05:24:49.844694+00:00"}
+{"event": "accepted", "accepted": 30, "attempts": 33, "category": "ml", "score": 8.0, "ema_global": 8.577944176153165, "ema_category": 8.30951, "created_at": "2026-02-18T05:26:35.641722+00:00"}
+{"event": "accepted", "accepted": 31, "attempts": 34, "category": "reasoning", "score": 9.0, "ema_global": 8.620149758537849, "ema_category": 8.25561, "created_at": "2026-02-18T05:28:11.360739+00:00"}
+{"event": "accepted", "accepted": 32, "attempts": 35, "category": "reasoning", "score": 9.0, "ema_global": 8.658134782684064, "ema_category": 8.330049, "created_at": "2026-02-18T05:29:23.307372+00:00"}
+{"event": "accepted", "accepted": 33, "attempts": 36, "category": "math", "score": 9.0, "ema_global": 8.692321304415657, "ema_category": 8.934390000000002, "created_at": "2026-02-18T05:30:34.648152+00:00"}
+{"event": "accepted", "accepted": 34, "attempts": 37, "category": "systems", "score": 8.0, "ema_global": 8.623089173974092, "ema_category": 8.0, "created_at": "2026-02-18T05:32:27.449688+00:00"}
+{"event": "accepted", "accepted": 35, "attempts": 38, "category": "science", "score": 8.0, "ema_global": 8.560780256576683, "ema_category": 8.1539, "created_at": "2026-02-18T05:33:57.729954+00:00"}
+{"event": "accepted", "accepted": 36, "attempts": 39, "category": "coding", "score": 9.0, "ema_global": 8.604702230919015, "ema_category": 9.0, "created_at": "2026-02-18T05:35:36.436891+00:00"}
+{"event": "accepted", "accepted": 37, "attempts": 40, "category": "ml", "score": 8.0, "ema_global": 8.544232007827114, "ema_category": 8.278559, "created_at": "2026-02-18T05:37:23.718511+00:00"}
+{"event": "accepted", "accepted": 38, "attempts": 41, "category": "science", "score": 9.0, "ema_global": 8.589808807044403, "ema_category": 8.23851, "created_at": "2026-02-18T05:38:55.615074+00:00"}
+{"event": "accepted", "accepted": 39, "attempts": 42, "category": "coding", "score": 9.0, "ema_global": 8.630827926339963, "ema_category": 9.0, "created_at": "2026-02-18T05:40:21.388220+00:00"}
+{"event": "gen_error", "error": "Failed to parse generator JSON.", "created_at": "2026-02-18T05:40:38.504277+00:00"}
+{"event": "accepted", "accepted": 40, "attempts": 44, "category": "systems", "score": 9.0, "ema_global": 8.667745133705967, "ema_category": 8.1, "created_at": "2026-02-18T05:42:10.447612+00:00"}
+{"event": "accepted", "accepted": 41, "attempts": 45, "category": "math", "score": 9.0, "ema_global": 8.70097062033537, "ema_category": 8.940951000000002, "created_at": "2026-02-18T05:43:03.653314+00:00"}
+{"event": "accepted", "accepted": 42, "attempts": 46, "category": "ml", "score": 8.0, "ema_global": 8.630873558301834, "ema_category": 8.2507031, "created_at": "2026-02-18T05:44:27.365734+00:00"}
+{"event": "accepted", "accepted": 43, "attempts": 47, "category": "ml", "score": 9.0, "ema_global": 8.667786202471651, "ema_category": 8.32563279, "created_at": "2026-02-18T05:46:01.105637+00:00"}
+{"event": "accepted", "accepted": 44, "attempts": 48, "category": "planning", "score": 8.0, "ema_global": 8.601007582224486, "ema_category": 8.81, "created_at": "2026-02-18T05:47:47.421747+00:00"}
+{"event": "accepted", "accepted": 45, "attempts": 49, "category": "systems", "score": 9.0, "ema_global": 8.640906824002037, "ema_category": 8.19, "created_at": "2026-02-18T05:49:40.346763+00:00"}
+{"event": "accepted", "accepted": 46, "attempts": 50, "category": "coding", "score": 9.0, "ema_global": 8.676816141601833, "ema_category": 9.0, "created_at": "2026-02-18T05:50:50.415775+00:00"}
+{"event": "accepted", "accepted": 47, "attempts": 51, "category": "planning", "score": 8.0, "ema_global": 8.60913452744165, "ema_category": 8.729000000000001, "created_at": "2026-02-18T05:51:50.970795+00:00"}
+{"event": "accepted", "accepted": 48, "attempts": 52, "category": "reasoning", "score": 9.0, "ema_global": 8.648221074697485, "ema_category": 8.3970441, "created_at": "2026-02-18T05:53:19.557657+00:00"}
+{"event": "accepted", "accepted": 49, "attempts": 53, "category": "science", "score": 9.0, "ema_global": 8.683398967227737, "ema_category": 8.314659, "created_at": "2026-02-18T05:55:14.362611+00:00"}
+{"event": "accepted", "accepted": 50, "attempts": 54, "category": "systems", "score": 8.0, "ema_global": 8.615059070504964, "ema_category": 8.171, "created_at": "2026-02-18T05:56:41.429797+00:00"}
